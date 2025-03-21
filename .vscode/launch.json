@@ -1,0 +1,128 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "currency_converter",
+            "cwd": "currency_converter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "currency_converter (profile mode)",
+            "cwd": "currency_converter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "currency_converter (release mode)",
+            "cwd": "currency_converter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "getx_app",
+            "cwd": "getx_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "getx_app (profile mode)",
+            "cwd": "getx_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "getx_app (release mode)",
+            "cwd": "getx_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "mvvm_arch",
+            "cwd": "mvvm_arch",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mvvm_arch (profile mode)",
+            "cwd": "mvvm_arch",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mvvm_arch (release mode)",
+            "cwd": "mvvm_arch",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "provider_app",
+            "cwd": "provider_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "provider_app (profile mode)",
+            "cwd": "provider_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "provider_app (release mode)",
+            "cwd": "provider_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "riverpod_app",
+            "cwd": "riverpod_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_app (profile mode)",
+            "cwd": "riverpod_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "riverpod_app (release mode)",
+            "cwd": "riverpod_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "shop_app",
+            "cwd": "shop_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "shop_app (profile mode)",
+            "cwd": "shop_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "shop_app (release mode)",
+            "cwd": "shop_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
