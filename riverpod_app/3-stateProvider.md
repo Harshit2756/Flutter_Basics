@@ -80,3 +80,5 @@ class StateProviderTutorial extends ConsumerWidget {
 ### Summary of Key Differences
 *   **ConsumerWidget**: Rebuilds the entire widget tree when the watched provider changes.
 *   **Consumer Widget**: Allows granular control, only rebuilding the specific subtree wrapped within it, preventing unnecessary redraws of the parent components like the `AppBar` or `FloatingActionButton`.
+
+## [*Next Topic: ConsumerWidget*](4-ConsumerWidget.md) 
