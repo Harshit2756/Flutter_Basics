@@ -86,4 +86,4 @@ class TimerScreen extends ConsumerWidget {
 *   **Clean Architecture:** Move your stream logic into a separate Service class (like a `TimerService`) and provide it via a provider rather than writing logic directly inside the UI or the provider function.
 *   **skipLoadingOnRefresh:** Set this property to `false` in the `.when()` or similar builders if you want to show the loading spinner again when a user triggers a manual refresh.
 
-## [Next Topic: *StateNotifierProvider*](7-stateNotifierProvider.md)
+## [Next Topic: *NotifierProvider*](7-notifierProvider.md)
