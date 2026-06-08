@@ -88,7 +88,7 @@ class GreetingScreen extends ConsumerWidget {
 
 ```
 
-        #### 5. Caching and Refreshing 
+#### 5. Caching and Refreshing 
 
 - **Caching:** `FutureProvider` caches the result after the first fetch. Subsequent widget rebuilds will not trigger a new API call.
 - **Refresh:** Use `ref.refresh(provider)` to invalidate the cache and trigger a new request. This is ideal for "pull-to-refresh" or "retry" buttons. For more ref methods [see here](https://pub.dev/documentation/hooks_riverpod/latest/hooks_riverpod/Ref-class.html)
